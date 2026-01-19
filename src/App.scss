@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+main {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://www.spacebar.news/content/images/size/w1600/2025/10/25.10-Questing-Quokka.png);
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+  background-color: #000000;
+}
